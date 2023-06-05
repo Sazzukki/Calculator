@@ -1,0 +1,8 @@
+E:\Games\Projects\Project1\Project1\x64\Debug\Project1.vcxproj.AssemblyReference.cache
+E:\Games\Projects\Project1\Project1\x64\Debug\Project1.vcxproj.SuggestedBindingRedirects.cache
+E:\Games\Projects\Project1\Project1\x64\Debug\Project1.MyForm.resources
+E:\Games\Projects\Project1\Project1\x64\Debug\Project1.vcxproj.GenerateResource.cache
+G:\юниту\Project1\Project1\x64\Debug\Project1.vcxproj.AssemblyReference.cache
+G:\юниту\Project1\Project1\x64\Debug\Project1.vcxproj.SuggestedBindingRedirects.cache
+G:\юниту\Project1\Project1\x64\Debug\Project1.MyForm.resources
+G:\юниту\Project1\Project1\x64\Debug\Project1.vcxproj.GenerateResource.cache
